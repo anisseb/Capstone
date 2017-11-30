@@ -1,0 +1,10 @@
+/* Theme Name: Creation Theme Theme URI: http://www.fran6art.com/ Description: The first theme created by Francis Chouquet. Version: 0.1 Author: Francis Chouquet   Creation Theme by Francis Chouquet || http://www.fran6art.com   */
+body { font-family: Lucida Grande, Arial, Helvetica, Sans-serif; font-size: 0.8em; text-align: left; background: #ffffff; color: #006699; margin: 0; }
+
+#page { margin: 0 auto 0 auto; width: 750px; }
+
+#header { font-family: Trebuchet MS, Lucida Grande, Arial, Helvetica, Georgia, Sans-serif; float: left; background:#cccccc; width: 750px; padding: 0 10px 20px 10px; }
+
+#content { float: left; width: 500px; margin-bottom: 20px; }   .sidebar { float: right; width: 250px; }
+
+#footer { font-size: 1em; background:#cccccc; padding: 10px 10px 0 0; clear: both; width: 740px; }
