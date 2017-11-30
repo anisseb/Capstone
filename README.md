@@ -2,5 +2,5 @@
 Foodkit
 
 
-le .sql est a la racine du dossier, il faudra l'importer dans votre BDD local
-MODIFIER LE fichire config.php a la racine pour connecter votre BDD
+Créez une bdd local dans votre PHPMyAdmin, vous recupérez le .sql est a la racine du git et ainsi l'importer dans votre BDD PhpMyAdmin local
+MODIFIER LE fichier config.php a la racine pour connecter votre BDD
